@@ -1,0 +1,1 @@
+alert('Name: Abdulmuizz Abubakar\nCountry: Nigeria\nHeight: 5ft 10in')
